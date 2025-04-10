@@ -1,2 +1,5 @@
-### Odin-recipes
-This the the frist project of the odin project.This project is a recap/revison of all the things learned so far in the odin project.From learning how basic HTML tags like paragraph tag, heading tags, image tag, anchor tag etc to learning the proper way to form a github commit for the proper understandability this project includes all.The basic HTML elements can be easily learned via various sources on the internet but the main thing i cherish about this project is the principles it teaches.
+# Odin Recipes
+
+This is the first project of [The Odin Project]. It serves as a recap and revision of everything learned so far — from understanding basic HTML tags such as paragraph tags, heading tags, image tags, anchor tags, etc., to learning how to form proper GitHub commits for better readability and collaboration.
+
+While basic HTML elements can be learned from countless resources on the internet, what I truly appreciate about this project are the **principles** it instills — such as writing clean code, committing meaningfully, and structuring projects with intention.
