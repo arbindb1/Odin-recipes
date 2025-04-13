@@ -1,0 +1,47 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+/*Homepage Styling*/
+
+
+.recipes-linklist{
+    margin-left:20px;
+    padding:20px;
+}
+.recipes-linklist li{
+    margin-bottom:10px;
+}
+
+
+/*eggpose styling*/
+.content-container{
+    width:60%;
+    margin:auto;
+    padding:20px;
+}
+.recipe-container>div,.description-container>div,.ingredient-container>div,.steps-container>div{
+    margin-bottom:20px;
+}
+.ingredient-container div:last-child,.steps-container div:last-child{
+    padding-left:50px;
+}
+.steps-container div:last-child ol li,.ingredient-container div:last-child ul li{
+   margin-bottom:20px; 
+}
+
+/*lobster-Roll styling*/
+/*momo styling*/
+/*Common Styling*/
+.homepage-header, .eggpose-nav-header, .lobsterroll-nav-header, .momo-nav-header{
+    background-color: black;
+    padding:20px;
+    color: white;
+}
+.eggpose-nav-header a, .lobsterroll-nav-header a, .momo-nav-header a{
+    color: white;
+    font-size:20px;
+
+}
